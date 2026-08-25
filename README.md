@@ -1,6 +1,3 @@
-Sure — here is the **complete `README.md` in one copy-paste block**. Replace your existing `README.md` with this.
-
-````markdown
 # MySQL Java Database Projects
 
 A collection of Java and MySQL database projects focused on learning and practicing database connectivity, SQL operations, JDBC, and database-driven Java application development.
